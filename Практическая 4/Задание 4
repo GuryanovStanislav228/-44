@@ -1,0 +1,5 @@
+n = int(input('Школьников: '))
+k = int(input('Мандаринов: '))
+
+print(k // n)
+print(k % n)
